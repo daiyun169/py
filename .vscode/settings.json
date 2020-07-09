@@ -1,0 +1,23 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "topper.customTemplateParameters": [
+    
+        {
+            "personalProfile": {
+                "author": "dairong",
+                "website": "www.cnhnb.com",
+                "copyright": "None \n None",
+                "license": "None",
+                "email": "dairong12@126.com",
+                "description":""
+            }
+        },
+        {
+            "officeProfile": {
+                "author": "dairong",
+                "department": "前端",
+                "email": "dairong12@126.com"
+            }
+        }
+    ]
+}
